@@ -5,10 +5,9 @@ I enjoy working with **front-end and back-end technologies** to build useful app
 
 ---
 
-## 🚀 About Me
-- 🎓 Currently studying **Diploma in Computer Science** at UiTM  
+## 🚀 About Me  
 - 🌱 Learning more about **Full Stack Web Development**  
-- ⚡ Interest: Web apps, databases, and UI/UX design  
+- ⚡ Interest: Web/app, databases, and UI/UX design  
 
 ---
 
