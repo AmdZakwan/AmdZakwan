@@ -14,7 +14,10 @@ I enjoy working with **front-end and back-end technologies** to build useful app
 
 ## 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,vscode,git,github,mysql,bluej,dev" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,git,github,vscode" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/XAMPP_logo.svg" height="40" alt="XAMPP"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/BlueJ_Logo.svg" height="40" alt="BlueJ"/>
 </p>
 
 <!---
