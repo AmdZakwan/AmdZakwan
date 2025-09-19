@@ -14,10 +14,10 @@ I enjoy working with **front-end and back-end technologies** to build useful app
 
 ## 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,vscode,git,github,mysql,bluej" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,vscode,git,github,mysql,bluej,dev" height="40" />
 </p>
 
----
+<!---
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmdZakwan&show_icons=true&theme=radical)  
