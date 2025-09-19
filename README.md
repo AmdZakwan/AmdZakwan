@@ -14,15 +14,22 @@ I enjoy working with **front-end and back-end technologies** to build useful app
 
 ## 🛠️ Languages & Tools
 <p>
-  <!-- Supported skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,git,github,vscode" height="40" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,php,js" height="40" />
   
-  <!-- Custom icons -->
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  
+  <!-- Version Control -->
+  <img src="https://skillicons.dev/icons?i=git,github" height="40" />
+  
+  <!-- Editors / IDEs -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/XAMPP_logo.svg" height="40" alt="XAMPP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/BlueJ_Logo.png" height="40" alt="BlueJ"/>
+  
+  <!-- Local Server -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/XAMPP_logo.svg" height="40" alt="XAMPP"/>
 </p>
-
 
 <!---
 
