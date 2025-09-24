@@ -25,11 +25,8 @@ I enjoy working with **front-end and back-end technologies** to build useful app
   <!-- Editors / IDEs -->
   <img src="https://skillicons.dev/icons?i=vscode" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"/>
-  
-  <!-- Local Server -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/XAMPP_logo.svg" height="40" alt="XAMPP"/>
-</p>
 
+ <!-- GIF -->
 <p align="center">
   <img src="assets/zenitsu.gif" width="400" alt="Lo-fi anime studying" />
 </p>
