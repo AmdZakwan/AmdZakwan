@@ -34,7 +34,7 @@ I enjoy working with **front-end and back-end technologies** to build useful app
 
 
 
-
+<!--
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmdZakwan&show_icons=true&theme=radical)  
