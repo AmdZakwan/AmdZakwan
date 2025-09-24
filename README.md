@@ -28,8 +28,9 @@ I enjoy working with **front-end and back-end technologies** to build useful app
 
  <!-- GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmdZakwan/AmdZakwan/main/assets/zenitsu.gif" width="400" alt="Lo-fi anime studying" />
+  <img src="https://raw.githubusercontent.com/AmdZakwan/AmdZakwan/master/assets/zenitsu.gif" width="400" alt="Lo-fi anime studying" />
 </p>
+
 
 
 <!---
