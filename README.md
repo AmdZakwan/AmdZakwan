@@ -30,6 +30,10 @@ I enjoy working with **front-end and back-end technologies** to build useful app
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/XAMPP_logo.svg" height="40" alt="XAMPP"/>
 </p>
 
+<p align="center">
+  <img src="assets/zenitsu.gif" width="400" alt="Lo-fi anime studying" />
+</p>
+
 <!---
 
 ## 📊 GitHub Stats
