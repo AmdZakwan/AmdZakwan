@@ -27,7 +27,7 @@ I enjoy working with **front-end and back-end technologies** to build useful app
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"/>
 
  <!-- GIF -->
- ## Vibes
+ ## ✨ Aesthetic Corner
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmdZakwan/AmdZakwan/main/assets/zinetsu.gif" width="400" alt="Lo-fi anime studying" />
 </p>
