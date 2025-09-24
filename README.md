@@ -32,26 +32,23 @@ I enjoy working with **front-end and back-end technologies** to build useful app
   <img src="https://raw.githubusercontent.com/AmdZakwan/AmdZakwan/main/assets/zenitsu.gif" width="400" alt="Lo-fi anime studying" />
 </p>
 
+---
 
 ## 📊 GitHub Stats 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmdZakwan&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+<!--
+
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmdZakwan&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmdZakwan&layout=compact&theme=tokyonight" height="150"/>
 </p>
--->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmdZakwan&theme=tokyonight" height="150"/>
-</p>
 
-
-<!--
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmdZakwan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmdZakwan&layout=compact&theme=radical)  
-
----
 <!--
 ## 🌐 Connect with Me
 <p>
