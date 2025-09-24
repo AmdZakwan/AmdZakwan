@@ -43,8 +43,6 @@ I enjoy working with **front-end and back-end technologies** to build useful app
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AmdZakwan&theme=tokyonight" height="150"/>
 </p>
 
-Kalau nak warna lain just tukar guna AI suruh ai tukar
-
 
 <!--
 
