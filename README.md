@@ -32,9 +32,6 @@ I enjoy working with **front-end and back-end technologies** to build useful app
   <img src="https://raw.githubusercontent.com/AmdZakwan/AmdZakwan/main/assets/zenitsu.gif" width="400" alt="Lo-fi anime studying" />
 </p>
 
----
-
-## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmdZakwan/AmdZakwan/output/github-snake.svg" alt="Snake animation" />
 </p>
