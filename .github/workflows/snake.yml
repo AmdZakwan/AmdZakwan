@@ -3,8 +3,8 @@ name: Generate GitHub contribution snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'        # run daily at 00:00 UTC (change if you want)
-  workflow_dispatch:          # allows manual run from Actions UI
+    - cron: '0 0 * * *'        
+  workflow_dispatch:          
 
 jobs:
   generate:
