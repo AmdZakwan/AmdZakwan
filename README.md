@@ -42,8 +42,6 @@ I enjoy working with **front-end and back-end technologies** to build useful app
 ---
 
 <!--
-
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmdZakwan&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmdZakwan&layout=compact&theme=tokyonight" height="150"/>
