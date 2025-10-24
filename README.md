@@ -16,7 +16,6 @@ I enjoy working with **front-end and back-end technologies** to build useful app
   <img src="https://streak-stats.demolab.com?user=AmdZakwan&theme=tokyonight" height="150"/>
 </p>
 
----
 
 ## 🛠️ Languages & Tools
 <p>
