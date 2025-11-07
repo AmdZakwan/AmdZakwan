@@ -11,6 +11,10 @@ I enjoy working with **front-end and back-end technologies** to build useful app
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmdZakwan&show_icons=true&theme=tokyonight" height="150"/>
+</p>
+
 ## 📊 GitHub Stats 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AmdZakwan&theme=tokyonight" height="150"/>
