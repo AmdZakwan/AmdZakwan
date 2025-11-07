@@ -3,9 +3,11 @@
 💻 A passionate **Computer Science student** exploring web development, problem-solving, and creating real-world projects.  
 I enjoy working with **front-end and back-end technologies** to build useful applications.  
 
+
 ## 🚀 About Me  
 - 🌱 Learning more about **Full Stack Web Development**  
 - ⚡ Interest: Web/app, databases, and UI/UX design  
+
 
 ## 📊 GitHub Stats 
 <!-- <p align="center">
@@ -15,6 +17,7 @@ I enjoy working with **front-end and back-end technologies** to build useful app
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmdZakwan&show_icons=true&theme=tokyonight" height="150"/>
 </p>
+
 
 ## 🛠️ Languages & Tools
 <p>
@@ -30,6 +33,7 @@ I enjoy working with **front-end and back-end technologies** to build useful app
   <!-- Editors / IDEs -->
   <img src="https://skillicons.dev/icons?i=vscode" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio"/>
+
 
  <!-- GIF -->
  ## ✨ Aesthetic Corner
